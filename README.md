@@ -10,3 +10,8 @@ $ GRANT ALL PRIVILEGES ON <myproject>.* TO <myprojectuser@localhost>;
 $ FLUSH PRIVILEGES;
 $ exit
 ```
+
+in django
+```bash
+poetry add mysqlclient
+```
