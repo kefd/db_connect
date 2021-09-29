@@ -28,4 +28,5 @@ sudo postgresql-setup --initdb --unit postgresql
 postgreSQL
 ```
 sudo -u postgres psql postgres
+sudo -u postgres createuser -D -A -P
 ```
