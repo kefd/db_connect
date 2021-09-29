@@ -17,6 +17,8 @@ poetry add mysqlclient
 ```
 
 postgres install
+https://fedoraproject.org/wiki/PostgreSQL
+https://stackpython.medium.com/how-to-start-django-project-with-a-database-postgresql-aaa1d74659d8
 ```bash
 sudo dnf install postgresql-server
 sudo dnf install postgresql-contrib
