@@ -27,5 +27,5 @@ sudo postgresql-setup --initdb --unit postgresql
 
 postgreSQL
 ```
-
+sudo -u postgres psql postgres
 ```
