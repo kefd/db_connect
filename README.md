@@ -15,3 +15,15 @@ in django
 ```bash
 poetry add mysqlclient
 ```
+
+postgres install
+```bash
+sudo dnf install postgresql-server
+sudo dnf install postgresql-contrib
+sudo postgresql-setup --initdb --unit postgresql
+```
+
+postgreSQL
+```
+
+```
